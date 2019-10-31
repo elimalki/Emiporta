@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="SerialSocket" />
+        <option name="name" value="Е" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="Nexus 6" />
+        <device id="Nexus 5X" />
+        <device id="4in WVGA (Nexus S)" />
+        <device id="pixel_3" />
+        <device id="pixel_2" />
+        <device id="4.65in 720p (Galaxy Nexus)" />
+        <device id="4.7in WXGA" />
+        <device id="5.1in WVGA" />
+        <device id="5.4in FWVGA" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-alpha5</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1556806495035</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="564b121d-04b5-402d-8cfa-e6b4c8597c4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="24b8c6b0" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bm71term" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bm71term" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onSerialRead</find>
+      <find>handleInput</find>
+      <find>cmd_state</find>
+      <find>Line</find>
+      <find>btA</find>
+      <find>tvTopLine</find>
+      <find>data_in</find>
+      <find>data_len</find>
+      <find>0x0A</find>
+      <find>test_byte</find>
+      <find>IOnDataArriveListener</find>
+      <find>setDataArriveListener</find>
+      <find>callback</find>
+      <find>send_array</find>
+      <find>tag</find>
+      <find>btListener</find>
+      <find>writePending</find>
+      <find>writeBuffer</find>
+      <find>send</find>
+      <find>not connected</find>
+      <find>writeCharacteristic</find>
+      <find>gatt</find>
+      <find>socket</find>
+      <find>imbt_link_home</find>
+      <find>setH</find>
+      <find>ic_talinor_logo</find>
+      <find>toolbar</find>
+      <find>onRes</find>
+      <find>new_user_start_logo</find>
+      <find>tvKeySequence</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pvt.taleng.bm71term</replace>
+      <replace>llKS</replace>
+      <replace>llBtnLinks</replace>
+      <replace>&lt;TableRow android:weight=&quot;0.15&quot;</replace>
+      <replace>&lt;TableRow android:layout_width=&quot;0dp&quot; android:layout_weight=&quot;0.15&quot;&gt;</replace>
+      <replace>&lt;TableRow android:layout_width=&quot;0dp&quot; android:layout_weight=&quot;0.25&quot;&gt;</replace>
+      <replace>&lt;TableRow android:layout_width=&quot;0dp&quot; android:layout_weight=&quot;0.1&quot;&gt;</replace>
+      <replace>BtnHelloScreenStyle</replace>
+      <replace>New_User</replace>
+      <replace>&quot;taleng12&quot;</replace>
+      <replace>&quot;ptool8app@gmail.com&quot;</replace>
+      <replace>dp</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\TheJackson\Desktop\keys\keys\release.jks" />
+    <option name="KEY_ALIAS" value="talinor_key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/SMTPAuthenticator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/Mail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_devices.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/Hello_Screen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/New_User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/bm71term/DevicesFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/alvol/ptl8/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings_web_err_links.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/Mail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/New_User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/New_User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/NewUserActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/Hello_Screen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/main/Hello_Screen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_new_user.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/LoginUserActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/progress_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/LoadingDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/SMTPAuthenticator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/SerialService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/emailSender/JSSEProvider.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/emailSender/GMailSender.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/RegisterNewUserActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/reset_password_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/LoginUserActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/auth/ResetPasswordActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/InputHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/SerialSocket.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/main/HelloActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/textview_shape_disable.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_terminal.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/TerminalFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/pvt/talinor/ptl8/DevicesFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_terminal.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/fragment_terminal.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_hello_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_reset_password.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="355" />
+    <option name="y" value="-20" />
+    <option name="width" value="1377" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bm71term" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pvt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pvt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="alvol" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pvt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pvt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="alvol" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pvt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="alvol" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bm71term" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
+          <expand>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="generated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="generated" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="debug" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="debug" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bm71term" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bm71term" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bm71term" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bm71term" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_note_5-24b8c6b0" />
+    <property name="DEBUGGABLE_PROCESS" value="pvt.talinor.ptl8" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="ExportApk.ApkPath" value="C:\Users\TheJackson\AndroidStudioProjects\bm71term\app\release" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/.." />
+    <property name="SearchEverywhereHistoryKey" value="Log&#9;ACTION&#9;template.create.ActivityLogin Activity&#10;password&#9;PSI&#9;JAVA://pvt.alvol.bm71term.GMailSender#password&#10;flovor&#9;null&#9;null&#10;getContext&#9;PSI&#9;JAVA://android.app.AlertDialog.Builder#getContext&#10;logo&#9;FILE&#9;file://F:/UpWork/BLE71/_RESULT/bm71term/app/src/main/res/drawable/talinor_logo.png&#10;DEBUG_Show_Toast_HomeSite_bm&#9;PSI&#9;JAVA://pvt.alvol.bm71term.TerminalFragment#DEBUG_Show_Toast_HomeSite_bm&#10;try {&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer#tryAcquire&#10;toast&#9;PSI&#9;JAVA://android.widget.Toast&#10;ble_scan&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.policy.privateutil.LocalizationMessages#localizableWSP_0032_SERVICE_CAN_NOT_BE_NULL&#10;BluetoothAdapter &#9;PSI&#9;JAVA://pvt.alvol.bm71term.DevicesFragment#bluetoothAdapter&#10;manifest&#9;FILE&#9;jar://C:/Users/alexey/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/Manifest.class&#10;mani&#9;ACTION&#9;template.create.OtherAndroid Manifest File&#10;manif&#9;PSI&#9;JAVA://android.Manifest&#10;ActionBa&#9;PSI&#9;JAVA://android.support.v7.widget.ActionBarOverlayLayout.ActionBarVisibilityCallback&#10;not connect&#9;PSI&#9;JAVA://jdk.net.SocketFlow.Status#NOT_CONNECTED&#10;MAX&#9;PSI&#9;JAVA://pvt.alvol.bm71term.InputHandler#MAX_LINE_LENGTH&#10;zhadan&#9;null&#9;null&#10;pvt.&#9;FILE&#9;file://C:/Users/alexey/AppData/Local/Android/Sdk/sources/android-28/com/android/systemui/statusbar/phone/PlatformVelocityTracker.java&#10;Use SCAN&#9;null&#9;null&#10;bt_settings&#9;null&#9;null&#10;NOT_CONNECTED&#9;PSI&#9;JAVA://java.net.DatagramSocket#ST_NOT_CONNECTED&#10;not connected&#9;PSI&#9;JAVA://jdk.net.SocketFlow.Status#NOT_CONNECTED&#10;API&#9;FILE&#9;file://F:/UpWork/BLE71/_RESULT/bm71term/app/app.iml&#10;drawable/logo&#9;FILE&#9;file://F:/UpWork/BLE71/_RESULT/bm71term/app/src/main/res/drawable/logo.webp&#10;app-de&#9;FILE&#9;file://F:/UpWork/BLE71/_RESULT/bm71term/app/build/outputs/apk/debug/app-debug.apk" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="device.picker.selection" value="24b8c6b0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.19985622" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1564558791209" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="release" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pvt.alvol.bm71term" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="pvt.alvol.bm71term" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TheJackson\Desktop\bm71term\app\src\main\res\layout" />
+      <recent name="C:\Users\TheJackson\Desktop\bm71term\app\src\main\res\drawable-mdpi" />
+      <recent name="C:\Users\TheJackson\Desktop\bm71term\app" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pvt.talinor.ptl8.auth" />
+      <recent name="pvt.talinor.ptl8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\UpWork\BLE71\_RESULT\bm71term\app\src\main\res\values" />
+      <recent name="F:\UpWork\BLE71\_RESULT\bm71term\app\src\main\res\drawable" />
+      <recent name="C:\projects\bm71term\app\src\main\res\layout-land" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="./gradlew assembleRelease" />
+      <command value="keytool -export -rfc -keystore release.jks -alias upload -file upload_cert.der" />
+      <command value="keytool -export -rfc -keystore f:\UpWork\BLE71\_RESULT\keys\release.jks -alias upload -file f:\UpWork\BLE71\_RESULT\keys\upload_cert.der" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bm71term" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="javax.mail.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/app/libs/javax.mail.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mail.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/app/libs/mail.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Gradle.bm71term" />
+      <item itemvalue="JAR Application.javax.mail.jar" />
+      <item itemvalue="JAR Application.mail.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.javax.mail.jar" />
+        <item itemvalue="JAR Application.mail.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="564b121d-04b5-402d-8cfa-e6b4c8597c4a" name="Default Changelist" comment="" />
+      <created>1551110234854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551110234854</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- Customers terminal implemented. TODO: Connection status, error handling, accept dialog for 'Reset' and 'Log reset' buttons.">
+      <created>1551461042615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551461042615</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Version code increased to 3 (version 1.0.2)">
+      <created>1551461294155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551461294155</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Version code increased to 3 (version 1.0.2)">
+      <created>1553199790760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553199790760</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Version code increased to 3 (version 1.0.2)">
+      <created>1553218751156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553218751156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.24972253" />
+      <window_info id="Favorites" order="1" sideWeight="0.16272967" side_tool="true" weight="0.17924528" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8171701" visible="true" weight="0.24040511" />
+      <window_info id="DB Browser" order="6" weight="0.32932165" />
+      <window_info id="Resources Explorer" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Logcat" order="0" sideWeight="0.49946696" weight="0.6211111" />
+      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.49946696" weight="0.32666665" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3816092" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49946696" weight="0.32777777" />
+      <window_info anchor="bottom" x="593" y="485" width="923" height="286" id="Event Log" order="4" sideWeight="0.41471216" side_tool="true" weight="0.3122222" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32917964" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.58528787" weight="0.3122222" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32555556" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.82408434" weight="0.2488889" />
+      <window_info anchor="bottom" id="Build Variants" order="11" sideWeight="0.55742145" side_tool="true" type="SLIDING" weight="0.27281946" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.3097015" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" auto_hide="true" id="Hierarchy" order="6" weight="0.32963374" />
+      <window_info anchor="right" id="Structure" order="7" weight="0.15649278" />
+      <window_info anchor="right" id="Assistant" order="8" weight="0.32963374" />
+      <window_info anchor="right" id="StringPreview" order="9" />
+      <window_info anchor="right" id="Flutter Inspector" order="10" />
+      <window_info anchor="right" id="Flutter Outline" order="11" weight="0.32995737" />
+      <window_info anchor="right" id="Codota" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.24972253" />
+      <window_info id="Favorites" order="1" sideWeight="0.16272967" side_tool="true" weight="0.17924528" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8171701" visible="true" weight="0.14072494" />
+      <window_info id="DB Browser" order="6" weight="0.32932165" />
+      <window_info id="Resources Explorer" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.75287354" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.3281412" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.47011495" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32917964" />
+      <window_info anchor="bottom" x="593" y="485" width="923" height="286" id="Event Log" order="4" sideWeight="0.29078802" side_tool="true" weight="0.27126437" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32917964" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.709212" weight="0.29655173" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" weight="0.32917964" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3264368" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.82408434" weight="0.24942529" />
+      <window_info anchor="bottom" id="Build Variants" order="11" sideWeight="0.55742145" side_tool="true" type="SLIDING" weight="0.27281946" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.39392325" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" auto_hide="true" id="Hierarchy" order="6" weight="0.32963374" />
+      <window_info anchor="right" id="Structure" order="7" weight="0.15649278" />
+      <window_info anchor="right" id="Assistant" order="8" weight="0.32963374" />
+      <window_info anchor="right" id="StringPreview" order="9" />
+      <window_info anchor="right" id="Flutter Inspector" order="10" />
+      <window_info anchor="right" id="Flutter Outline" order="11" />
+      <window_info anchor="right" id="Codota" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_DETAILS" value="true" />
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="- Customers terminal implemented. TODO: Connection status, error handling, accept dialog for 'Reset' and 'Log reset' buttons." />
+    <MESSAGE value="- Version code increased to 3 (version 1.0.2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Version code increased to 3 (version 1.0.2)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/TerminalFragment.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/app/libs/mail.jar!/javax/mail/PasswordAuthentication.class</url>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/Mail.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="KeySeq_Buf[1]" language="JAVA" />
+        <watch expression="KeySeq_Buf[1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/DevicesFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="526" column="32" lean-forward="true" selection-start-line="526" selection-start-column="32" selection-end-line="526" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3086#3087#0" expanded="true" />
+            <element signature="e#3138#3139#0" expanded="true" />
+            <element signature="e#20318#20319#0" expanded="true" />
+            <element signature="e#20372#20373#0" expanded="true" />
+            <element signature="e#21026#21027#0" expanded="true" />
+            <element signature="e#21070#21071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/main/HelloActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="136" column="37" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/mipmap-xhdpi/ic_launcher.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/mipmap-xxhdpi/ic_launcher.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_launcher.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_launcher_foreground.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_launcher_round.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_home.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/talinor_logo.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_clear_white_24dp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="15" selection-start-line="15" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_reset_password.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/device_list_header.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/progress_dialog.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/device_list_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_hello_screen.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="122" column="18" selection-start-line="122" selection-start-column="18" selection-end-line="122" selection-end-column="18" />
+          <folding>
+            <element signature="e#4236#4267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/ic_launcher_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings_web_err_links.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_terminal.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/fragment_terminal.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/pvt/emi/ptl8/TerminalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="1089" column="53" selection-start-line="1089" selection-start-column="53" selection-end-line="1089" selection-end-column="53" />
+          <folding>
+            <element signature="e#2703#2725#0" />
+            <element signature="class#2934:4126" />
+            <element signature="method#onClick#0;class#2934:4126" />
+            <element signature="e#3123#4115#1" />
+            <element signature="e#3457#3746#0" />
+            <element signature="e#3759#4069#0" />
+            <element signature="e#3961#4058#1" />
+            <element signature="class#4223:5010" />
+            <element signature="method#onClick#0;class#4223:5010" />
+            <element signature="e#4375#4648#1" />
+            <element signature="e#4385#4422#0" />
+            <element signature="e#4716#4824#1" />
+            <element signature="e#4891#4998#1" />
+            <element signature="class#5100:7138" />
+            <element signature="method#onClick#0;class#5100:7138" />
+            <element signature="e#5237#7126#1" />
+            <element signature="e#5316#7045#0" />
+            <element signature="e#5638#6757#0" />
+            <element signature="e#5671#5796#1" />
+            <element signature="e#5859#5984#1" />
+            <element signature="e#6047#6172#1" />
+            <element signature="e#6235#6441#1" />
+            <element signature="e#6497#6712#1" />
+            <element signature="e#6773#6995#0" />
+            <element signature="e#7491#7591#0" />
+            <element signature="class#8079:8450" />
+            <element signature="method#onClick#0;class#8079:8450" />
+            <element signature="e#8220#8438#1" />
+            <element signature="e#8282#8429#1" />
+            <element signature="e#8319#8419#1" />
+            <element signature="e#8479#12821#0" />
+            <element signature="e#12822#13399#0" />
+            <element signature="e#13402#13444#0" />
+            <element signature="class#13546:37035" />
+            <element signature="method#onClick#0;class#13546:37035" />
+            <element signature="e#13771#37025#1" />
+            <element signature="e#13848#13894#0" />
+            <element signature="e#14081#18336#0" />
+            <element signature="e#14106#15616#0" />
+            <element signature="e#15224#15266#0" />
+            <element signature="e#15689#18261#0" />
+            <element signature="e#15693#15708#0" />
+            <element signature="e#15894#18233#0" />
+            <element signature="e#18514#36955#0" />
+            <element signature="e#18574#18607#1" />
+            <element signature="e#18647#23971#1" />
+            <element signature="e#18674#23939#0" />
+            <element signature="e#23537#23579#0" />
+            <element signature="e#24040#28617#1" />
+            <element signature="e#24067#28585#0" />
+            <element signature="e#28183#28225#0" />
+            <element signature="e#28686#32361#1" />
+            <element signature="e#28713#32329#0" />
+            <element signature="e#28715#28909#0" />
+            <element signature="e#31517#31716#0" />
+            <element signature="e#32430#36945#1" />
+            <element signature="e#32457#36913#0" />
+            <element signature="e#35832#36033#0" />
+            <element signature="e#36511#36553#0" />
+            <element signature="e#37040#37160#0" />
+            <element signature="e#37164#37206#0" />
+            <element signature="e#37358#37478#0" />
+            <element signature="e#37687#40700#0" />
+            <element signature="e#37713#38385#1" />
+            <element signature="e#38200#38361#1" />
+            <element signature="e#38410#39085#1" />
+            <element signature="e#38899#39060#1" />
+            <element signature="e#39113#39791#1" />
+            <element signature="e#39602#39767#1" />
+            <element signature="e#39818#40664#1" />
+            <element signature="e#40266#40307#1" />
+            <element signature="e#40476#40640#1" />
+            <element signature="e#40708#40731#0" />
+            <element signature="e#40708#40963#0" />
+            <element signature="e#40967#41176#0" />
+            <element signature="e#41043#41070#1" />
+            <element signature="e#41501#41661#0" />
+            <element signature="e#41606#41637#1" />
+            <element signature="e#41665#41697#0" />
+            <element signature="e#41665#41998#0" />
+            <element signature="e#42002#42155#0" />
+            <element signature="e#42047#42095#0" />
+            <element signature="e#42343#42402#1" />
+            <element signature="e#42445#42640#1" />
+            <element signature="class#42513:42632" />
+            <element signature="e#42648#43031#0" />
+            <element signature="e#42832#43027#1" />
+            <element signature="class#42900:43019" />
+            <element signature="e#43035#43161#0" />
+            <element signature="e#43128#43157#1" />
+            <element signature="e#43165#43193#0" />
+            <element signature="e#45348#45350#0" />
+            <element signature="e#46549#46607#0" />
+            <element signature="e#46843#46885#0" />
+            <element signature="class#47121:49018" />
+            <element signature="e#47160#47183#0" />
+            <element signature="method#onSlideLeft#0;class#47121:49018" />
+            <element signature="e#47959#48052#1" />
+            <element signature="method#onSlideRight#0;class#47121:49018" />
+            <element signature="e#48145#48234#0" />
+            <element signature="e#48678#48771#1" />
+            <element signature="method#onSlideUp#0;class#47121:49018" />
+            <element signature="method#onSlideDown#0;class#47121:49018" />
+            <element signature="e#49046#49300#0" />
+            <element signature="e#49304#49996#0" />
+            <element signature="e#49434#49931#1" />
+            <element signature="e#49501#49870#0" />
+            <element signature="e#49705#49862#1" />
+            <element signature="e#49937#49992#1" />
+            <element signature="e#50000#50025#0" />
+            <element signature="e#50000#50599#0" />
+            <element signature="e#50061#50536#0" />
+            <element signature="e#50557#50595#0" />
+            <element signature="e#50603#50856#0" />
+            <element signature="e#50669#50711#1" />
+            <element signature="e#50737#50772#1" />
+            <element signature="e#50797#50852#1" />
+            <element signature="e#50860#51489#0" />
+            <element signature="e#50888#50928#0" />
+            <element signature="e#51088#51431#0" />
+            <element signature="e#51256#51425#1" />
+            <element signature="e#51452#51485#0" />
+            <element signature="e#51493#51779#0" />
+            <element signature="e#51532#51572#0" />
+            <element signature="e#51688#51721#0" />
+            <element signature="e#51742#51775#0" />
+            <element signature="e#51783#52114#0" />
+            <element signature="e#51817#52079#0" />
+            <element signature="e#52118#52146#0" />
+            <element signature="e#52118#52253#0" />
+            <element signature="e#52257#52390#0" />
+            <element signature="e#52394#52760#0" />
+            <element signature="e#52476#52523#0" />
+            <element signature="e#52573#52756#0" />
+            <element signature="e#52764#52890#0" />
+            <element signature="e#53102#53147#0" />
+            <element signature="e#53151#53322#0" />
+            <element signature="e#53326#53485#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

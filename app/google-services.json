@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "942205403892",
+    "firebase_url": "https://talinor-3026f.firebaseio.com",
+    "project_id": "talinor-3026f",
+    "storage_bucket": "talinor-3026f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942205403892:android:f8780bd0418948e55954a1",
+        "android_client_info": {
+          "package_name": "pvt.emi.ptl8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942205403892-omt2epotmq23vojl9jem1vu16sofnds7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qDk61OXznULUPiB1lXX7E62zD2crKc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942205403892-omt2epotmq23vojl9jem1vu16sofnds7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942205403892-svj6be2htv6aqj6qb0l0p55qs6n4hmpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Talinor.lineup.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942205403892:android:e14d65cb482497f3",
+        "android_client_info": {
+          "package_name": "pvt.talinor.ptl8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942205403892-jqvdd7rf94i3rck7747mi8fujk7omq3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pvt.talinor.ptl8",
+            "certificate_hash": "794716fe7ecd6961bc75430d441c6ad281e83fb5"
+          }
+        },
+        {
+          "client_id": "942205403892-omt2epotmq23vojl9jem1vu16sofnds7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qDk61OXznULUPiB1lXX7E62zD2crKc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942205403892-omt2epotmq23vojl9jem1vu16sofnds7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942205403892-svj6be2htv6aqj6qb0l0p55qs6n4hmpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Talinor.lineup.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
