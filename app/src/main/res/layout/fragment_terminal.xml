@@ -66,7 +66,7 @@
 
       <Button
         android:id="@+id/btA"
-        style="@style/BtnStyle2"
+        style="@style/BtnStyle"
         android:layout_span="2"
         android:backgroundTint="@color/md_blue_900"
         android:text="@string/btnA_ext_text" />
@@ -99,7 +99,7 @@
 
       <Button
         android:id="@+id/btB"
-        style="@style/BtnStyleArrow"
+        style="@style/BtnStyle"
         android:layout_span="2"
         android:backgroundTint="@color/md_blue_900"
         android:text="@string/btnB_ext_text" />
@@ -134,7 +134,7 @@
 
       <Button
         android:id="@+id/btC"
-        style="@style/BtnStyleArrow"
+        style="@style/BtnStyle"
         android:layout_span="2"
         android:backgroundTint="@color/md_blue_900"
         android:text="@string/btnC_ext_text" />
@@ -167,7 +167,7 @@
 
       <Button
         android:id="@+id/btD"
-        style="@style/BtnStyle2"
+        style="@style/BtnStyle"
         android:layout_span="2"
         android:backgroundTint="@color/md_blue_900"
         android:text="@string/btnD_ext_text" />
